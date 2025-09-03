@@ -2,7 +2,7 @@ This repository contains a Jupyter Notebook that demonstrates linear regression 
 
 Contents:
 
-- Diabetes_Linear_Regression.ipynb – The main notebook containing the following steps:
+-Diabetes_Linear_Regression.ipynb – The main notebook containing the following steps:
   1. Load and analyze the dataset
   2. Split the dataset into training and testing sets
   3. Build and train a linear regression model
